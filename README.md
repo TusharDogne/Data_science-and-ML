@@ -28,7 +28,7 @@ This repository reflects my journey of building concepts from scratch and applyi
 
 - **Languages:** Python  
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-- **Tools:** Jupyter Notebook, Git, GitHub  
+- **Tools:** Colab, Git, GitHub  
 
 ---
 
