@@ -55,14 +55,6 @@ This repository reflects my journey of building concepts from scratch and applyi
 - Work on real-world end-to-end ML projects  
 - Deploy ML models using Flask/Django  
 - Improve model optimization & tuning skills  
-
----
-
-## 🤝 Connect With Me
-
-- GitHub: [Your GitHub Link]  
-- LinkedIn: [Your LinkedIn Link]  
-
 ---
 
 ⭐ *This repository is continuously updated as I learn and build.*
